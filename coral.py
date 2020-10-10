@@ -18,7 +18,7 @@ if aVro==1:
 			elif r_u==4:
 				print("\n==> In the Gulf of Aqaba/Eilat, the situation seems to be somewhat different: research has shown that the coral reefs of the northern Red Sea are unusually resilient to climatic changes, and are likely to survive even harsher conditions in the future. Israeli scientists agree the coral reef of Eilat, the northernmost coral reef in the world, is unique and needs to be protected and preserved.Recently, it was found that the northern Red Sea corals are not only adaptable to changing environmental conditions but also continue to produce offspring at the same rate and quality, which could ensure reef survival for many years to come, provided we humans do not interfere.")
 			elif r_u==5:
-				print("\n==> In Kish Island, where coral reefs are more exposed to temperature rise due to gentle slopes of the reefs corals are more exposed to bleaching while in Faror and Khark Islands")
+				print("\n==> In Kish Island, where coral reefs are more exposed to temperature rise due to gentle slopes of the reefs corals are more exposed to bleaching while in Faror and Khark Islands it is less likely for the corals to lose color.Some species of corals are adapted to the new climatic conditions, but others, such as staghorn corals, are not as adaptable and are dying, ISNA news agency quoted Rezaei as saying on May 6.In the year 1378 (March 1999-March 2000) only 23 percent of the corals in Shidvar Island were alive and currently the amount decreased to 13 percent, he regretted, adding that staghorn corals are totally extinct in the area")
 			
 			
 		else:
