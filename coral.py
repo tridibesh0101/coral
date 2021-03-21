@@ -1,6 +1,6 @@
-aVro=int(input("Do you want to turn on your location?\n (1) Yes\tor\t (0) No : "))
+ask_usr=int(input("Do you want to turn on your location?\n (1) Yes\tor\t (0) No : "))
 
-if aVro==1:
+if ask_usr==1:
 	print("\nYou got a notification")
 	s_y=int(input("\n Wanna click on the notification?\n (1) Yes\tor\t (0) No :  "))
 	if s_y==1:
