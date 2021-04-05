@@ -2,7 +2,7 @@ aVro=int(input("Do you want to turn on your location?\n (1) Yes\tor\t (0) No : "
 
 if aVro==1:
 	print("\nYou got a notification")
-	s_y=int(input("\n Wanna click on the notification?\n (1) Yes\tor\t (0) No :  "))
+	s_y=int(input("\n Wanna click on the notification?\n (1) Yes\tor\t (0) No:  "))
 	if s_y==1:
 		print("\nEnter your option to know the details about ''Coral Reefs''-->")
 		t_u=int(input("\n (1) Present Condition of Coral Reefs\n (2) What we have to do? \n Enter your choose : "))
